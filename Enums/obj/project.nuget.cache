@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tugregcTBS7xgkzi/EJG4optX5yU0mqlqYoZv2YBh0KL3QcqwkXV/j49Cuu2n484iyCmRC4epC2oRbewiN/fw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums\\Enums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nosov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\nosov\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\nosov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\nosov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

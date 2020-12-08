@@ -5271,11 +5271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\EPAM Online course\\Tasks\\20. Enums\\Enums\\Enums.Tests\\Enums.Tests.csproj",
+      "projectUniqueName": "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums.Tests\\Enums.Tests.csproj",
       "projectName": "Enums.Tests",
-      "projectPath": "D:\\EPAM Online course\\Tasks\\20. Enums\\Enums\\Enums.Tests\\Enums.Tests.csproj",
+      "projectPath": "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums.Tests\\Enums.Tests.csproj",
       "packagesPath": "C:\\Users\\nosov\\.nuget\\packages\\",
-      "outputPath": "D:\\EPAM Online course\\Tasks\\20. Enums\\Enums\\Enums.Tests\\obj\\",
+      "outputPath": "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nosov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5290,9 +5290,10 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "D:\\EPAM Online course\\Tasks\\20. Enums\\Enums\\Enums\\Enums.csproj": {
-              "projectPath": "D:\\EPAM Online course\\Tasks\\20. Enums\\Enums\\Enums\\Enums.csproj"
+            "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums\\Enums.csproj": {
+              "projectPath": "C:\\Program Files (x86)\\Jenkins\\workspace\\EnumsTests2\\Enums\\Enums.csproj"
             }
           }
         }
@@ -5305,6 +5306,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5329,12 +5331,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
